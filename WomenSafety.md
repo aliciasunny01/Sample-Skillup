@@ -1,3 +1,3 @@
 # Large
 ## Medium
-### Small
+### Small.
